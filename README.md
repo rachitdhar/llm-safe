@@ -1,6 +1,6 @@
 # llm-safe
 A source code obfuscator, making code difficult/practically impossible for an LLM to parse.
-The resulting obfuscated code is meant to still be completely usabe and equivalent to the original code in functionality.
+The resulting obfuscated code is meant to still be completely usable and equivalent to the original code in functionality.
 It is only rendered impossible to interpret for a human (or LLM) due to all linguistic words being replaced by gibberish.
 However, it should compile just fine.
 
